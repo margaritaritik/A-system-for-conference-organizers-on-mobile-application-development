@@ -1,0 +1,22 @@
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\System for conference organizers.exe
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\System for conference organizers.deps.json
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\System for conference organizers.runtimeconfig.json
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\System for conference organizers.runtimeconfig.dev.json
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\System for conference organizers.dll
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\ref\System for conference organizers.dll
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\bin\Debug\net5.0-windows\System for conference organizers.pdb
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.csproj.AssemblyReference.cache
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\App.g.cs
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers_MarkupCompile.cache
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers_MarkupCompile.lref
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\MainWindow.baml
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.g.resources
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.AssemblyInfoInputs.cache
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.AssemblyInfo.cs
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.csproj.CoreCompileInputs.cache
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.dll
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\ref\System for conference organizers.dll
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.pdb
+D:\ДИПЛОМ\дэмо-экзамен\probnik2\A-system-for-conference-organizers-on-mobile-application-development\System for conference organizers\obj\Debug\net5.0-windows\System for conference organizers.genruntimeconfig.cache
